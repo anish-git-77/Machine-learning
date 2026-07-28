@@ -6,7 +6,7 @@ print(df)
 # Target variable: Stress Level
 y = df["stress_level"]
 print(y)
-# Feature variables
+# Feature variables   
 x1 = df["anxiety_level"]
 x2 = df["mental_health_history"]
 x3 = df["headache"]
