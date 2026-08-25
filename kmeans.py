@@ -7,7 +7,7 @@ Created on Sun Sep 14 17:26:30 2025
 
 import pandas as pd
 import numpy as np
-from sklearn.cluster import KMeans
+from sklearn.cluster import KMeans    
 from sklearn.preprocessing import StandardScaler
 import plotly.express as px
 
