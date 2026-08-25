@@ -48,7 +48,7 @@ print(f"Stress Level 1 count: {c2}")
 print(f"Stress Level 2 count: {c3}")
 # Determine the predicted class (majority vote)
 if c1 > c2 and c1 > c3:
-    predicted_stress_level = 0
+    predicted_stress_level = 0  
 elif c2 > c1 and c2 > c3:
     predicted_stress_level = 1
 else:
